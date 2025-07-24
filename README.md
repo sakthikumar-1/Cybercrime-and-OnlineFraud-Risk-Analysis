@@ -75,14 +75,15 @@ A powerful Power BI dashboard to visualize, track, and analyze **cybercrime** an
 
 ##  Connect with the Creator
 
-> **Name**: Sakthi Kumar B  
+For questions or collaborations, feel free to connect:
+  
+Sakthi Kumar B
 
-> **Email**: **b.sakthikumar10@gmail.com**
+Email: b.sakthikumar10@gmail.com  
 
->**GitHub**: [GitHub (sakthikumar-1)](https://github.com/sakthikumar-1)  
-
->**LinkedIn**: [LinkedIn (sakthikumar1)](https://linkedin.com/in/sakthikumar1)  
-
+LinkedIn: [linkedin.com/in/sakthikumar1](https://www.linkedin.com/in/sakthikumar1)  
+ 
+GitHub: [github.com/sakthikumar-1](https://github.com/sakthikumar-1)
 
 ---
 
