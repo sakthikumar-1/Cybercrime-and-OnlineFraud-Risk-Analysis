@@ -1,4 +1,4 @@
-#  Cybercrime and Online Fraud Risk Analysis Dashboard
+#  Cybercrime and Online Fraud Risk Analysis
 
 A powerful Power BI dashboard to visualize, track, and analyze **cybercrime** and **online fraud patterns** across Indian cities. This project offers actionable insights into fraud trends, device vulnerabilities, and high-risk regions using data-driven visual storytelling.
 
