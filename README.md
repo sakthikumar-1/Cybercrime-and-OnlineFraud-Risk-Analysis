@@ -35,7 +35,9 @@ A powerful Power BI dashboard to visualize, track, and analyze **cybercrime** an
 -  **7-Day Transaction Trend**: Line chart for average amounts
 -  **Interactive Slicers**: Filter by City, Device Type, Month, Crime Type
 
--  ![Dashboard Screenshot](Dashboard_SS.png)
+## Dashboard Preview
+ 
+   ![Dashboard Screenshot](Dashboard_SS.png)
 
 ---
 
